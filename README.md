@@ -21,11 +21,11 @@ After submitting, a **profile card** is automatically generated and displayed on
   
   Before **Submit** --
   
-    <img width="500" height="500" alt="form" src="https://github.com/user-attachments/assets/19bf829a-2ed8-417f-a4e6-8fb2b9dba3f4" />
+  <img width="500" height="500" alt="form" src="https://github.com/user-attachments/assets/19bf829a-2ed8-417f-a4e6-8fb2b9dba3f4" />
     
   after **submit**--
   
-    <img width="500" height="500" alt="after_submit" src="https://github.com/user-attachments/assets/8b0b6ba4-a612-44e4-ad87-c38562dff6eb" />
+  <img width="500" height="500" alt="after_submit" src="https://github.com/user-attachments/assets/8b0b6ba4-a612-44e4-ad87-c38562dff6eb" />
 
 ---
 
